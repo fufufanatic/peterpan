@@ -1,4 +1,6 @@
 # Peter Pan Bus Confirmation Number Tester
+## (Old 2013 python proof of concept for `Information Disclosure` on Peter Pan Bus Lines website)
+## 🪲 https://hackerone.com/reports/417
 
 A Python script that tests Peter Pan bus confirmation numbers to find valid ticket purchases.
 
